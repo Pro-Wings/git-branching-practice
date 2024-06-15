@@ -7,5 +7,10 @@ public class Hello {
 		System.out.println("inside hello");
 		
 	}
+	
+	public void welcome()
+	{
+		System.out.println("Welcome!!");
+	}
 
 }
