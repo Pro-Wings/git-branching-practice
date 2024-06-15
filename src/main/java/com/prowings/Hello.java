@@ -13,4 +13,9 @@ public class Hello {
 		System.out.println("Welcome!!");
 	}
 
+	public void greet()
+	{
+		System.out.println("Hello!!! Greetings!!!");
+	}
+	
 }
