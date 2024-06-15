@@ -1,1 +1,1 @@
-Hey Java developers... Im Developer1 developing addition functionality. Welcome to Git Branching!!!
+Hey Java developers... I'm developer2 and Developer2, we added substraction and addition functionality. Welcome to Git Branching!!!
